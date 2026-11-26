@@ -1,0 +1,10 @@
+{
+  "description": "Ajuda pacientes a encontrar e comparar exames médicos, preços e horários, e agendar em clínicas e laboratórios com mais praticidade e transparência.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
